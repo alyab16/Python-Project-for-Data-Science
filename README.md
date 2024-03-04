@@ -1,5 +1,3 @@
----
-
 # Stock Data Extraction and Visualization
 
 This Jupyter notebook contains a project that focuses on extracting and visualizing stock data for Tesla (TSLA) and GameStop (GME). The project uses the `yfinance` library to extract stock data, `BeautifulSoup` for web scraping revenue data, and `plotly` for data visualization.
@@ -27,5 +25,3 @@ After installing the necessary libraries, you can run the notebook cell by cell 
 ## Note
 
 The data used in this project is up to date as of June 2021. For the most accurate and current results, you may need to update the data extraction sections with more recent URLs or use a different method to obtain the most recent stock and revenue data.
-
----
